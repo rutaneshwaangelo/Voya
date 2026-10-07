@@ -1,0 +1,10 @@
+{
+  "name": "voya-frontend",
+  "version": "2.0.0",
+  "description": "VOYA Rwanda Ride-Hailing Platform - React Frontend",
+  "scripts": {
+    "start": "npx serve -s . -l 3000",
+    "dev": "npx serve -s . -l 3000"
+  },
+  "dependencies": {}
+}
